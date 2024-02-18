@@ -1,4 +1,4 @@
-package org.madhur;
+package org.learn.selenium;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
